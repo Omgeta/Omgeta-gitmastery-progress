@@ -16,5 +16,14 @@
       "You have successfully undone the init operation!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768488140.629624,
+    "completed_at": 1768488142.879003,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
   }
 ]
