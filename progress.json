@@ -131,5 +131,14 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1768823812.330422,
+    "completed_at": 1768823867.463909,
+    "comments": [
+      "That is not the right Github url!"
+    ],
+    "status": "Incomplete"
   }
 ]
